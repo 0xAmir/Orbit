@@ -1,5 +1,5 @@
 # Orbit
-_Control you computer via SMS_  
+_Control your computer via SMS_  
   
 Orbit is a Python script enabling you to send commands to your computer when you don't have an internet connection or when your machine is physically out of reach.  
   
